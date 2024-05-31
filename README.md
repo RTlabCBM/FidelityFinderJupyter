@@ -4,8 +4,6 @@
         <img src="https://img.shields.io/badge/Jupyter-FFA500?&logo=jupyter&logoColor=white"" /></a>
 </p>
 
-<br>
-
 # FidelityFinderJupyter
 
 Jupyter Notebooks with scripts used in the pipeline [FidelityFinder](https://github.com/RTlabCBM/FidelityFinder). All scripts are adapted to be run on Google Colab using the following links:
