@@ -8,4 +8,3 @@ Jupyter Notebooks with scripts used in the pipeline [FidelityFinder](https://git
 Additionally, there are three extra Google Colab notebooks to further process the results of the pipeline and to simulate the pipeline:
 - [barcode_analyzer](https://colab.research.google.com/github/RTlabCBM/FidelityFinderJupyter/blob/main/JupyterNotebooks/barcode_analyzer.ipynb): creates a plot with a profile of the nucleotides present in barcodes
 - [hotspots_finder](https://colab.research.google.com/github/RTlabCBM/FidelityFinderJupyter/blob/main/JupyterNotebooks/hotspots_finder.ipynb): it can process mutations tables of several samples to analyze and plot total variants, indels and SNPs in common
-- [fidelity_finder_simulation](https://colab.research.google.com/github/RTlabCBM/FidelityFinderJupyter/blob/main/JupyterNotebooks/fidelity_finder_simulation.ipynb): it simulates an RT-PCR experiment incorporating cDNA barcoding and NGS sequencing
