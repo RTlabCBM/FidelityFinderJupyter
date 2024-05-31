@@ -1,8 +1,5 @@
-<!-- # Badges -->
-<p align="center">
-    <a href="https://jupyter.org/">
-        <img src="https://img.shields.io/badge/Jupyter-FFA500?&logo=jupyter&logoColor=white"" /></a>
-</p>
+
+
 Jupyter Notebooks with scripts used in the pipeline [FidelityFinder](https://github.com/RTlabCBM/FidelityFinder). All scripts are adapted to be run on Google Colab using the following links:
 
 - [lengths_distribution_plotting](https://colab.research.google.com/github/RTlabCBM/FidelityFinderJupyter/blob/main/JupyterNotebooks/lengths_distribution_plotting.ipynb): creates plots with the lengths of the merged sequences obtained.
